@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-_hexcode = '1A237E'
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=_hexcode&height=300&section=header&text=Yejin%20Park&fontSize=80&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <p align='center'>
