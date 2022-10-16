@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header]([https://capsule-render.vercel.app/api?type=waving](https://capsule-render.vercel.app/api?type=slice)&color=auto&height=300&section=header&text=Yejin%20Park%&fontSize=90&animation=fadeIn&fontAlignY=50&descAlignY=61&descAlign=12)
+![header]([https://capsule-render.vercel.app/api?type=waving](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Yejin%20Park%&fontSize=90&animation=fadeIn&fontAlignY=50&descAlignY=61&descAlign=12)
 <p align='center'>
     <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
   <a href="#demo">
