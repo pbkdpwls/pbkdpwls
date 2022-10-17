@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
+<p align='center'>
 # 🛠Teck Stack🛠
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java%20script-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Android%20Studio-%233DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>
+</p>
