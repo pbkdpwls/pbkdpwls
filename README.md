@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=094CC6&height=300&section=header&text=Yejin%20Park&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=094CC6&height=250&section=header&text=Yejin%20Park&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&descAlignY=51&descAlign=62)
 
 <p align='center'>
 🛠Teck Stack🛠
