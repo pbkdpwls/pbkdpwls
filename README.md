@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0E1881&height=300&section=header&text=Yejin%20Park&fontSize=90&fontColor=000000&animation=fadeIn&fontAlignY=50&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0E1881&height=300&section=header&text=Yejin%20Park&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&descAlignY=51&descAlign=62)
 
 
 <p align='center'>
