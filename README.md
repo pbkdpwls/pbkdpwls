@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-🔵 Teck Stack 🔵
+🛠Teck Stack🛠
 <br>
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
