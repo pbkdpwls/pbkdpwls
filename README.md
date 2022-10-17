@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0A6DF7&height=300&section=header&text=Yejin%20Park&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&descAlignY=51&descAlign=62)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=094CC6&height=300&section=header&text=Yejin%20Park&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&descAlignY=51&descAlign=62)
 
 <p align='center'>
-🛠Teck Stack🛠0E1881
+🛠Teck Stack🛠0E1881 0A6DF7
 <br>
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
