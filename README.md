@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align='center'>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=300&section=header&text=Yejin%20Park&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&descAlignY=51&descAlign=62)
 
 <p align='center'>
@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbkdpwls&show_icons=true&theme=graywhite)
 
+</div>
