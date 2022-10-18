@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=300&section=header&text=Yejin%20Park&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&descAlignY=51&descAlign=62)
-
+<div align='center'>
 <p align='center'>
 🛠Teck Stack🛠
 <br>
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
-<div align='center'>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbkdpwls&show_icons=true&theme=graywhite)
 </div>
