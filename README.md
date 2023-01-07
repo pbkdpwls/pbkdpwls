@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbkdpwls&show_icons=true&theme=graywhite)
 
-2019.03 덕성여자대학교 컴퓨터공학과 입학
-2019.06 늘푸른소리, 회장
-2020.03 한이음 내손안의 서재
-2021.02 한이음 킨더픽
-2021.08 ASAP
-2021.11 닥터챗봇
-2022.02 한이음 하루뭅
+2019.03 덕성여자대학교 컴퓨터공학과 입학<br>
+2019.06 늘푸른소리, 회장<br>
+2020.03 한이음 내손안의 서재<br>
+2021.02 한이음 킨더픽<br>
+2021.08 ASAP<br>
+2021.11 닥터챗봇<br>
+2022.02 한이음 하루뭅<br>
 
 </div>
