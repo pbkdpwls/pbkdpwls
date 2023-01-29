@@ -36,11 +36,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbkdpwls&show_icons=true&theme=graywhite)
 
 <br>
-### Time Line 🏃
-
-
 </div>
-
+### Time Line 🏃
 * 2019.03 덕성여자대학교 컴퓨터공학과 입학 <br>
 * 2019.06 ~ IT 교육봉사 동아리 - 늘푸른소리 & 회장 <br>
 * 2020.03 ~ 한이음 ICT 공모전 - 내손안의 서재, 1차 통과<br>
